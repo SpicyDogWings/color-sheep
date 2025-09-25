@@ -1,0 +1,46 @@
+/* https://www.tints.dev/palette/v1:cHJpbWFyeXw0ZmFjZmV8NDAwfHB8MHwwfDB8MTAwfGF-c3VyZmFjZXw2NDc0OEJ8NTAwfHB8MHwwfDB8MTAwfGF-c2VjdW5kYXJ5fDAwZjJmZXwyMDB8cHwwfDB8MHwxMDB8YQ */
+@import "tailwindcss";
+@import "./switzer.css";
+
+@theme {
+  --font-family-sans: "Switzer-Regular", system-ui, sans-serif;
+  --font-family-serif: "Switzer-Regular", serif;
+  --font-family-mono: "Switzer-Regular", monospace;
+  --font-weight-thin: 100;
+  --font-weight-light: 300;
+  --font-weight-normal: 400;
+  --font-weight-bold: 700;
+  --color-primary-50: oklch(0.967 0.016 22.18);
+  --color-primary-100: oklch(0.927 0.037 22.01);
+  --color-primary-200: oklch(0.862 0.074 22.82);
+  --color-primary-300: oklch(0.79 0.121 25.07);
+  --color-primary-400: oklch(0.726 0.17 27.91);
+  --color-primary-500: oklch(0.656 0.233 34.52);
+  --color-primary-600: oklch(0.557 0.197 34.63);
+  --color-primary-700: oklch(0.45 0.16 34.6);
+  --color-primary-800: oklch(0.351 0.124 34.65);
+  --color-primary-900: oklch(0.244 0.086 34.74);
+  --color-primary-950: oklch(0.196 0.068 35.22);
+  --color-secondary-50: oklch(0.968 0.052 149.39);
+  --color-secondary-100: oklch(0.936 0.111 148.57);
+  --color-secondary-200: oklch(0.871 0.258 147.2);
+  --color-secondary-300: oklch(0.777 0.23 147.2);
+  --color-secondary-400: oklch(0.685 0.202 147.22);
+  --color-secondary-500: oklch(0.595 0.176 147.11);
+  --color-secondary-600: oklch(0.502 0.149 147.16);
+  --color-secondary-700: oklch(0.411 0.121 147.28);
+  --color-secondary-800: oklch(0.317 0.093 147.34);
+  --color-secondary-900: oklch(0.227 0.067 147.13);
+  --color-secondary-950: oklch(0.182 0.053 147.64);
+  --color-surface-50: #f9f9f9;
+  --color-surface-100: #f1f1f1;
+  --color-surface-200: #d4d4d4;
+  --color-surface-300: #b6b6b6;
+  --color-surface-400: #989898;
+  --color-surface-500: #7f7f7f;
+  --color-surface-600: #636363;
+  --color-surface-700: #4b4b4b;
+  --color-surface-800: #323232;
+  --color-surface-900: #1d1d1d;
+  --color-surface-950: #111111;
+}
